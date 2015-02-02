@@ -5,6 +5,7 @@ A collaboration between Brodie Roberts, Jason Cummer, and Robert Prior for class
 
 Run as:   java ZombieTracker
 
+=====================
 
 This semi-functional user interface mockup is the result of a term project in a Human Computer Interaction class.
 
@@ -24,6 +25,7 @@ We conducted a second set of user interviews, getting each person to use our app
 Our finished mockup was sent to three other students in our class to conduct a useability analysis on. We got this feedback and used it to make a few final adjustments.
 We presented our finished mockup to the class and submitted a paper fully detailing the design process.
 
+=====================
 
 Feel free to run this mockup and explore what it can do. Keep in mind that some of the buttons do nothing.
 For a guided tour of what's implemented in this mockup, follow along with the test script in the file:
