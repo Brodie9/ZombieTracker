@@ -1,0 +1,26 @@
+Categories for Tags:
+
+
+Weapons
+	Guns
+	Ammo
+	Melee
+	Armour
+	Other
+
+Transport
+	**
+
+Supplies
+	Food
+	Water
+	*Survival cat.s*
+
+Locations
+	Safe Zone
+	
+	Utilities
+
+People
+	Users
+	Friends

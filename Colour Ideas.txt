@@ -1,0 +1,17 @@
+Colour ideas:
+
+On background of Blue 100,
+
+Buttons in the area of B210, R70 to B255, R90
+Possibly gradient between these.
+
+
+Tag Frame background colour:
+150, 100, 175, 80 over normal BG
+
+
+
+New
+Tags
+Overlays
+Favourites

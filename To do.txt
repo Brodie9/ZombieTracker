@@ -1,0 +1,25 @@
+To do 2.0:
+
+
+Tags:
+	 - Give tags locations
+	 - Calc distance
+
+Map:
+	- Plot tags on map
+	- Plot other users on map
+	- Plot user on map
+	- Plot Zombies on map
+	
+	- Add a route plotter to Tags
+	
+	- "Center on User" button
+	"Plot Route" button for map ~
+	- "Walk here" temp button
+	- Edit Legend button
+	
+	- PANIC button
+
+Network:
+	- Give users locations
+	- Calc distance

@@ -1,0 +1,73 @@
+Zombie Tracker Testing Script 
+
+Hello and thank you for coming to our test. I am going to ask you to complete some tasks with our Zombie Tacker system. Either I will tell you exactly what to do, or I’ll give you an end goal, and get you to figure out the steps on your own.
+While you complete the tasks, I ask that you continually say what you’re thinking. For example, why you are trying a particular button, what your over all strategies and goals are,  or how you think the program works.
+I will be collecting data during this test by writing things about what you say and do, as well as by running a screen recording program which will record your mouse movements.
+Keep in mind, we are testing the interface not you. So if you’re having a hard time, it’s our fault for making a bad interface.
+
+Since this application is designed for an iPhone, the common gestures have been simulated with a mouse. Point and click to touch, drag to swipe, use the mouse wheel to pinch and spread and type on the keyboard to enter text.
+Because this application is designed to interact with the user’s location, the "Walk" button has been included in this application, to simulate moving in the physical world. When you have a target you want to move to, simply click the "Walk" button to simulate travelling there.
+
+There are several buttons in this prototype that don’t do anything. If you press one of these, I’ll tell you that it doesn’t do anything, so you aren’t left wondering why nothing happened.
+
+
+Now that the explanation is out of the way, let’s begin the test.
+    //Start the program with "java -Xmx128m ZombieTracker"
+
+
+-----
+Start by opening the Zombie Tracker application.
+Try to interact with the map.
+    //Give them a few seconds.
+    ->If they don’t move the map, say "Try to move the map"
+    ->If they don’t zoom the map, say "Try to zoom the map"
+
+
+//Once they have discovered both moving and zooming the map:
+Look around on the map a bit.
+	Now focus the map on your current location.
+	//They should use the "Center on Location" button.
+
+What do the yellow icons represent?
+Find the nearest Zombie to your location.
+	Any comments about them?
+
+
+-----
+Alright, now we’re going to do a scenario...
+
+The Zombie Apocalypse has begun, and you need a way to defend yourself. Your goal is to get a chainsaw - preferably the nearest one.
+    Hints: Go to the Tags page
+	   Search tags for "Chainsaw"
+	   Plot a route to the Chainsaw
+    //If they don’t immediately hit the walk button, say:
+    Great! Now walk there. 
+
+
+Now that you have a way to defend yourself, you should try to find some other survivors. Your goal is to have a conversation with the nearest survivor.
+    Hints: Go to the Network page
+	   Look for users within a small Radius of you
+	   Click on a user / click on the text box at the bottom to talk
+
+
+//Let them talk with the AI for a bit, then once they’ve gotten a bit into the conversation say:
+QUICK! A ZOMBIE IS COMING YOUR WAY! It’s almost at you! It’s at 20 feet - 15 - 10 - 5 - IT’S RIGHT ON YOU.
+//Stop as soon as they hit the PANIC button, but if you get to the end of that line then they died.
+//Be sure to record exactly when in that line they hit PANIC.
+
+What were you thinking during that?
+	//Feel free to follow up with questions specific to their answer.
+
+After running away from the zombie, you’re feeling hungry. Look for nearby places where you could get food.
+    Hints: Don’t use the Search feature
+	   Use the Radius search
+
+Now that you have supplies, you should try to escape the island. There are escape boats leaving from the Royal Victoria Yacht Club.
+    Hints: Search for Yacht Club
+
+
+Excellent! You escaped the island and lived... for now.
+Thank you for taking part in this test.
+
+What do you think of the program?
+//Feel free to ask follow-up questions. The test is over so take as long as you want.

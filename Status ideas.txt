@@ -1,0 +1,7 @@
+Status ideas:
+
+
+Nearest zombie distance
+Average zombie distance
+Danger rating
+One-way-out notification
