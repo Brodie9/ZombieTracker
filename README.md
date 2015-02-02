@@ -1,14 +1,12 @@
 # ZombieTracker
 Interface design term project, March 2011
 
-A collaboration between Brodie Roberts, Jason Cummer, and Robert Prior 
-for class SEng 310 at the University of Victoria.
+A collaboration between Brodie Roberts, Jason Cummer, and Robert Prior for class SEng 310 at the University of Victoria.
 
 Run as:   java ZombieTracker
 
 
-This semi-functional user interface mockup is the result of a term project 
-in a Human Computer Interaction class.
+This semi-functional user interface mockup is the result of a term project in a Human Computer Interaction class.
 
 Our team started with the idea of an app that would help you survive in a zombie apocalypse.
 We began by listing all of the functionality we wanted it to have, and organizing those functions into logical groups.
@@ -25,5 +23,6 @@ We presented our finished mockup to the class and submitted a paper fully detail
 
 Feel free to run this mockup and explore what it can do. Keep in mind that some of the buttons do nothing.
 For a guided tour of what's implemented in this mockup, follow along with the test script in the file:
+
 TestScript.txt
 
